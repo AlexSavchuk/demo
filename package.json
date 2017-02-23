@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "download script",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alex savchuk",
+  "license": "MIT",
+  "devDependencies": {
+    "bluebird": "^3.4.6"
+  } 
+}
